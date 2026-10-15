@@ -1,0 +1,6 @@
+{
+  "name": "Ansh Portfolio",
+  "description": "Ansh the OG — A full-stack developer making bulletproof systems that work when you are sleeping. Custom Minecraft plugins, mods, servers & battle-tested Discord bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
